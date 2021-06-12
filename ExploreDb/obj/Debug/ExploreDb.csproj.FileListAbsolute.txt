@@ -1,0 +1,7 @@
+D:\Projects\Training\Day31\ExploreDb\bin\Debug\ExploreDb.exe.config
+D:\Projects\Training\Day31\ExploreDb\bin\Debug\ExploreDb.exe
+D:\Projects\Training\Day31\ExploreDb\bin\Debug\ExploreDb.pdb
+D:\Projects\Training\Day31\ExploreDb\obj\Debug\ExploreDb.csprojAssemblyReference.cache
+D:\Projects\Training\Day31\ExploreDb\obj\Debug\ExploreDb.csproj.CoreCompileInputs.cache
+D:\Projects\Training\Day31\ExploreDb\obj\Debug\ExploreDb.exe
+D:\Projects\Training\Day31\ExploreDb\obj\Debug\ExploreDb.pdb
